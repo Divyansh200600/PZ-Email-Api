@@ -271,7 +271,7 @@ app.post('/api/send-email', async (req, res) => {
                           <img src="https://firebasestorage.googleapis.com/v0/b/pulsezest.appspot.com/o/logo.png?alt=media&token=208465a0-63ae-4999-9c75-cf976af6a616" alt="Company Logo" class="header-logo">
                           <div class="header-content">
                               <h1>PulseZest</h1>
-                              <p class="webinar-name">Webinar: Master Advanced Technologies</p>
+                               <p style="font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 16px;">Webinar: PulseZest Tech Talks</p>
                           </div>
                       </div>
                       <div class="welcome-message">
