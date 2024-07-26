@@ -315,7 +315,7 @@ app.post('/api/send-email', async (req, res) => {
                         </div>
                         <br>
                     </div>
-               <p style="
+           <p style="
     font-family: 'Poppins', sans-serif; 
     font-size: 16px; 
     color: #333333; 
@@ -362,6 +362,24 @@ app.post('/api/send-email', async (req, res) => {
         color: #333333;
     ">
         ${process.env.WEBINAR_TIME}
+    </span>
+
+    <span style="
+        display: inline-block; 
+        font-size: 18px; 
+        font-weight: bold; 
+        color: #ff7e5f; 
+        margin-right: 10px;
+    ">
+        Zoom Link:
+    </span>
+    <span style="
+        display: inline-block; 
+        font-size: 18px; 
+        font-weight: 600; 
+        color: #333333;
+    ">
+        ${process.env.WEBINAR_ZOOM_LINK}
     </span>
 </p>
 
