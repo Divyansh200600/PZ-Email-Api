@@ -422,7 +422,7 @@ app.post('/api/send-email', async (req, res) => {
                         <a href="https://www.instagram.com/pulsezest/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"></a>
                         <a href="https://discord.gg/5KvyNGFg"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord"></a>
                         <a href="https://pulsezest.com/"><img src="https://img.icons8.com/ios-filled/48/000000/globe.png" alt="Website"></a>
-                        <a href="#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"></a>
+                        <a href="https://x.com/PulseZest/with_replies"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"></a>
                     </div>
                    <p style="font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 16px;">&copy; 2024 PulseZest. All rights reserved.</p>
                 </td>
