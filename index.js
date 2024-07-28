@@ -371,7 +371,7 @@ app.post('/api/send-email', async (req, res) => {
         color: #ff7e5f; 
         margin-right: 10px;
     ">
-        Zoom Link:
+        Google Meet Link:
     </span>
     <span style="
         display: inline-block; 
